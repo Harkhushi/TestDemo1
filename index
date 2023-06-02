@@ -1,0 +1,106 @@
+<html>
+<head>
+
+
+</head>
+<body>
+<table>
+<tr>
+    <td>    
+        <label for="fname">first name:</label>
+    </td>
+    <td> <input type="text" name="fname" id="fname"></td> 
+</tr>
+<tr>
+    <td><label for="lname">last name:</label></td>
+    <td><input type="text" name="lname" id="lname"></td>
+
+</tr>
+<tr>
+    <td><label for="dob">date of birth:</label> </td>
+    <td><input type="date"name="dob" id="dob"></td>
+</tr>
+<tr>
+    <td><label for="mail">email address:</label> </td>
+    <td><input type="email" name="mail" id="mail"> </td>
+</tr>
+<tr>
+    <td><label for="phone">phone number:</label> </td>
+    <td><input type="number" name="phone" id="phone"> </td>
+</tr>
+<tr> 
+<td>gender</td> 
+    <td><input type="radio"><label>female</label> 
+<input type="radio"><label>male</label>   
+    <input type="radio"><label>others</label> </td>
+</tr>
+<tr>
+   <td><label>address</label></td>
+   <td><textarea columns="30" rows="4"></textarea></td>
+   
+</tr>
+<tr>
+   <td><label for="lname">city:</label> </td>
+   <td><input type="text" name="lname" id="lname"> </td>
+</tr>
+<tr>
+   <td><label for="phone">pin code:</label> </td>
+   <td><input type="number" name="phone" id="phone" </td>
+</tr>
+<tr>
+    <td><label for="fname">country:</label> </td>
+    <td><input type="text" name="fname" id="fname"> </td>
+</tr> 
+<tr>
+    <td>hobbies</td>
+    <td><input type="checkbox"><label>singing</label></td>
+    <td><input type="checkbox"><label>drawing</label></td> 
+    <td><input type="checkbox"><label>dancing</label></td>
+    <td><input type="checkbox"><label>reading</label></td>
+</tr>
+<tr>
+    <td>Qualifications</td>
+    <th>si.no.examinations</th>
+   <th>board</th>
+    <th>percentage</th>
+    <th>year of passing</th> 
+</tr>
+<tr>
+    <td>1.class x</td>
+    <td><input type="text"></td>
+    <td><input type="text"></td>
+    <td><input type="text"></td>
+    <td><input type="text"></td>
+</tr>
+<tr> 
+      <td>2.class xll</td>
+      <td><input type="text"></td>
+    <td><input type="text"></td>
+    <td><input type="text"></td>
+    <td><input type="text"></td>
+</tr>
+<tr>
+    <td>3.Graduation</td>
+    <td><input type="text"></td>
+    <td><input type="text"></td>
+    <td><input type="text"></td>
+    <td><input type="text"></td>
+</tr>
+<tr>
+    <td>4.Masters</td>
+    <td><input type="text"></td>
+    <td><input type="text"></td>
+    <td><input type="text"></td>
+    <td><input type="text"></td>
+</tr>
+<tr>
+   <td>course applied for</td>
+   <td><input type="radio"><label>BCA</label></td>
+   <td><input type="radio"><label>B.com</label></td>
+   <td><input type="radio"><label>B.Sc</label> </td>
+   <td><input type="radio"  </td>
+</tr>
+
+</table>
+</body>
+<html>
